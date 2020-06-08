@@ -6,7 +6,7 @@ Package for running validation test on cerebellum models.
 ## Description
 This repository is at develomental stage.
 
-[Documentation](https://cerebunit.readthedocs.io/en/latest/)
+[Documentation](https://cerebtests.readthedocs.io/en/latest/)
 
 ## ~~Table of Contents~~
 
